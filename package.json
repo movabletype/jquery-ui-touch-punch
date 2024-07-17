@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/furf/jquery-ui-touch-punch.git"
+    "url": "https://github.com/movabletype/jquery-ui-touch-punch.git"
   },
   "author": "furf",
   "license": "Dual licensed under the MIT or GPL Version 2 licenses.",
   "bugs": {
-    "url": "https://github.com/furf/jquery-ui-touch-punch/issues"
+    "url": "https://github.com/movabletype/jquery-ui-touch-punch/issues"
   },
-  "homepage": "https://github.com/furf/jquery-ui-touch-punch"
+  "homepage": "https://github.com/movabletype/jquery-ui-touch-punch"
 }
